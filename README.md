@@ -2,7 +2,7 @@ Hi 👋 My name is Alireza
 ========================
 Back-End Developer
 ------------------
-Programming started for me in 2018 with C++, then Java, and now I'm trying to learn Linux and back-end development.
+Programming started for me in 2018 with C++, then Java, and after that I focused on Python. I am now trying to learn Linux and back-end development.
 * 🌍  I'm based in Iran, Bandar Abbas
 * 💬 Let's talk about RegEx and Python, those are my favorites.
 * ✉️  You can contact me at [AlirezaSampoor@gmail.com](mailto:AlirezaSampoor@gmail.com)
